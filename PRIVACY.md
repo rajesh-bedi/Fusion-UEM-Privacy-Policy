@@ -1,4 +1,4 @@
-**Sundyne Technologies' Fusion EMM app privacy policy**
+**Fusion EMM app privacy policy**
 
 
 This privacy policy relates to Sundyne Technologies' Fusion family of products including Fusion Pro, Fusion EMM and Fusion UEM. Confidentiality of user's personal and device data is managed with-in Fusion management software.
