@@ -8,10 +8,12 @@ Details of user's device & personal data collected & used by Fusion management s
 
 
 **Installed Apps Data**
+
 Our app may collect information about installed applications on your device. This data is used solely for enterprise device management, to enforce compliance and security rules. It is not shared with any third party or used for advertising purposes.
 
 
 **Collection of end user device data**
+
 To enrol devices into the Fusion management software, the Enterprise / IT Administrator user must provide personal information on the end users. This includes name and contact information, such as email or phone number. The end user's contact information is used only for the purpose of enrolment of their devices.
 
 As an essential part of a Fusion management software, up-to-date inventory information of the managed devices are collected into the Fusion management software database through the Fusion UEM agent software. The Enterprise / IT Administrator user may also modify details of the devices, end users, and other related configuration items. This information ("Private data") is owned by and the responsibility of the Enterprise/ IT Administrator user.
@@ -38,12 +40,14 @@ Fusion device management software does not share or distribute private data to t
 
 
 **Invitation for device enrolment to new users**
+
 From the Fusion management software, it is possible to invite new end users to enrol their devices (whose devices needs to be managed). The invited person does not gains access to the Fusion management software web application, and therefore, access to all information regarding the users, end users and devices of the site, including private data is restricted to IT administrators only.
 
 For invitation, an email address is required and optionally the name of the new user can be given. This information is used for sending an invitation letter, a possible reminder, and thereafter, for identification of the new user. After registering to the Service, the invited users will be bound to this policy.
 
 
 **Notes**
+
 Fusion management software is collectively being referred to all variants of this software including Fusion Pro, Fusion UDM Professional, Fusion UDM Premium, Fusion EMM and Fusion UEM.
 
 For any queries related to privacy policy of Sundyne Technologies' Fusion software application please contact and submit your queries to Administrator.
